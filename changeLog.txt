@@ -1,0 +1,5 @@
+12/12/2020 
+v 0.1.0
+
+Accepts an input file, asks for drug column, prints out all rows with accepted drugs (pre-defined), exports to an xlsx file
+To do: show a file input dialogue, convert letters to decimal value, allow imports of drug lists
